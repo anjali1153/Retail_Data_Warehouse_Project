@@ -125,3 +125,55 @@ Fields:
 - year
 - month
 - quarter
+
+## Power BI Dashboard
+- KPI Cards
+1. Total Revenue
+2. Total Profit
+3. Total Orders
+4. Total suctomers
+
+- Visualizations
+1. Revenue by Region
+- Analyzes sales performance across geographical regions.
+
+2. Revenue by Category
+- Shows category contribution to overall revenue.
+
+3. Monthly Sales Trend
+- Tracks sales growth over time.
+
+4. Key Performance indicator
+- Tracking perfomance of total revenue.
+
+## Key Business Insights
+- Identified top-performing sales regions.
+- Evaluated profitability across product categories.
+- Analyzed customer purchasing behavior.
+- Tracked monthly sales growth trends.
+- Identified products contributing the highest revenue.
+- Supported data-driven business decision-making through interactive dashboards.
+
+## Project Outcomes
+- Built an end-to-end ETL pipeline using Python.
+- Implemented a dimensional data warehouse model.
+- Created fact and dimension tables for analytical reporting.
+- Developed SQL-based business analytics.
+- Designed interactive Power BI dashboards.
+- Generated actionable insights from retail sales data.
+
+## Future Enhancements
+- Automated ETL scheduling
+- Incremental data loading
+- Cloud deployment using Azure/AWS
+- Advanced Power BI reporting
+- Real-time dashboard integration
+- Data quality monitoring
+
+## Author
+
+- Anjali Wable
+ : Data Analytics | Business Intelligence | Data Engineering
+
+- GitHub:
+: https://github.com/anjali1153
