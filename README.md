@@ -66,3 +66,23 @@ Business Insights
 13. Quantity
 14. Discount
 15. Profit
+
+## ETL Process :
+1. Extract
+- The retail sales dataset was loaded from CSV files using Pandas.
+
+2. Transform
+- Data cleaning and preprocessing activities included:
+
+- Column standardization
+- Date conversion
+- Duplicate removal
+- Data validation
+- Feature engineering
+- Year extraction
+- Month extraction
+- Quarter extraction
+
+3. Load
+- The transformed data was loaded into MySQL for further analysis and reporting.
+
