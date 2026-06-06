@@ -16,16 +16,16 @@ The project focuses on transforming raw retail sales data into meaningful busine
 
 ## Project Architecture :
 CSV Dataset
-↓
+->
 Python ETL Pipeline
-↓
+->
 MySQL Staging Layer
-↓
+->
 Data Warehouse
 (Fact & Dimension Tables)
-↓
+->
 SQL Analytics & Views
-↓
+->
 Power BI Dashboard
-↓
+->
 Business Insights
