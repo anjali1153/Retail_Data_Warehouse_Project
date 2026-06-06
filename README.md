@@ -86,3 +86,42 @@ Business Insights
 3. Load
 - The transformed data was loaded into MySQL for further analysis and reporting.
 
+## Data Warehouse Design
+- Fact Table
+1. fact_sales
+- Contains transactional sales data.
+
+Fields:
+1. order_id
+2. customer_id
+3. product_id
+4. order_date
+5. region
+6. sales
+7. quantity
+8. discount
+9. profit
+
+2. Dimension Tables
+   
+1. dim_customer
+- customer_id
+- customer_name
+- segment
+
+2. dim_product
+- product_id
+- product_name
+- category
+- sub_category
+
+3. dim_region
+- region
+- state
+- city
+
+4. dim_date
+- order_date
+- year
+- month
+- quarter
