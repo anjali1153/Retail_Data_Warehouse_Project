@@ -29,3 +29,19 @@ SQL Analytics & Views
 Power BI Dashboard
 ->
 Business Insights
+
+## Technology Stack :
+- Programming
+1. Python
+- Pandas
+- NumPy
+2. Database
+- MySQL
+- SQL
+3. Business Intelligence
+- Power BI
+4. Development Tools
+- Jupyter Notebook
+- MySQL Workbench
+- Git
+- GitHub
