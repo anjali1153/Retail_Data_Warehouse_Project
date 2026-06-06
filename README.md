@@ -45,3 +45,24 @@ Business Insights
 - MySQL Workbench
 - Git
 - GitHub
+
+## Dataset Information
+- Dataset: Sample Superstore
+- Records: 9,994+
+- Features: 21 Columns
+= Key Fields:
+1. Order ID
+2. Order Date
+3. Ship Date
+4. Customer ID
+5. Customer Name
+6. Segment
+7. Region
+8. State
+9. Category
+10. Sub-Category
+11. Product Name
+12. Sales
+13. Quantity
+14. Discount
+15. Profit
